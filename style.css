@@ -213,7 +213,7 @@ nav ul li a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 15px;
+  padding: 0 15px 0 15px;
 }
 .citygrid div div button {
   background: #3d83df;
